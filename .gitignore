@@ -217,4 +217,3 @@ refs/
 notebooks/**/*.png
 tmp/
 outputs/
-*.csv
